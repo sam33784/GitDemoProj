@@ -5,6 +5,7 @@ public class Ex2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("bye");
+		System.out.println("checkout");
 	}
 
 }
